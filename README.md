@@ -5,7 +5,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Um baixador de vídeos moderno, multiplataforma e fácil de usar. Desenvolvido em Python, este software automatiza o download e a conversão de mídias para o formato MP4 (H.264) com uma interface gráfica elegante.
+Um baixador de vídeos moderno, multiplataforma e fácil de usar. Desenvolvido em Python, este software automatiza o download e a conversão de mídias para o formato MP4 (H.264) com uma interface gráfica.
 
 ## ✨ Funcionalidades
 
