@@ -1,0 +1,14 @@
+#ignorar ambiente virtual
+venv/
+venv_win/
+__pycache__/
+.venv/
+*.py[cod]
+.vscode/
+
+#ignorar arquivos baixados
+*.mp4
+/Projeto Spamm videos/
+
+bin/ffmpeg.exe
+bin/ffmpeg
